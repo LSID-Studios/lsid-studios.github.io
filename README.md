@@ -1,2 +1,2 @@
-# lsid.github.io
+# lsid-studios.github.io
 The Website for LSID Studios
